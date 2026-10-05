@@ -1,5 +1,7 @@
 # PEPE/DOGE/ETHFI 突破雷达
 
+[English](./README.en.md)
+
 ![首页·实时雷达（生产真机截图）](docs/qa/ethfi-acceptance/01-home.png)
 
 生产地址：https://pepe-doge-breakout-radar.vercel.app（main 分支自动部署）
